@@ -1,0 +1,22 @@
+*{
+	margin:0px;
+	padding: 0px;
+}
+
+body {
+	background-image: url("../images/fond_site.png");
+	background-image: 100%;
+	background-repeat: no-repeat;
+	
+
+}
+
+#clic {
+	margin: 300px;
+
+}
+
+#clic img {
+	width: 250px;
+	height: 250px;
+}
