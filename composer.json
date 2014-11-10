@@ -1,7 +1,7 @@
 {
+	"minimum-stability": "dev",
     "require": {
-        "slim/slim": "2.*"
+        "slim/slim": "2.*",
         "petebrowne/slim-layout-view": "0.3.*"
-        "moltin/cart": "dev-master"
     }
 }
