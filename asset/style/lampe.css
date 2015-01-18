@@ -1,0 +1,123 @@
+#block1{ 
+  width: 30%;
+  margin-left: 700px;
+  background-color: white;
+  border: solid 1px;
+  border-radius: 8px;
+  box-shadow:8px 8px 12px #888;
+}
+
+#block2{ 
+  width: 30%;
+  margin-left: 200px;
+  background-color: white;
+  border: solid 1px;
+  border-radius: 8px;
+  box-shadow:8px 8px 12px #888;
+}
+
+#block3{ 
+  width: 30%;
+  height: 40%;
+  margin-left: 900px;
+  background-color: white;
+  border: solid 1px;
+  border-radius: 8px;
+  box-shadow:8px 8px 12px #888;
+}
+
+figure img { 
+  width: 50%;
+}
+
+#police1 {
+  position: absolute;
+  display: inline-block;
+  left: 860;
+  top: 409;
+  text-decoration: underline;
+  font-family: Arial;
+  font-size: 31;
+}
+
+#police2 {
+  position: absolute;
+  display: inline-block;
+  left: 890;
+  top: 449;
+  text-decoration: underline;
+  font-family: Arial;
+  font-size: 20;
+}
+
+#police3 {
+  position: absolute;
+  display: inline-block;
+  left: 380;
+  top: 639;
+  text-decoration: underline;
+  font-family: Arial;
+  font-size: 31;
+}
+
+#police4 {
+  position: absolute;
+  display: inline-block;
+  left: 400;
+  top: 679;
+  text-decoration: underline;
+  font-family: Arial;
+  font-size: 20;
+}
+
+#police5 {
+  position: absolute;
+  display: inline-block;
+  left: 760;
+  top: 909;
+  text-decoration: underline;
+  font-family: Arial;
+  font-size: 31;
+}
+
+#police6 {
+  position: absolute;
+  display: inline-block;
+  left: 720;
+  top: 949;
+  text-decoration: underline;
+  font-family: Arial;
+  font-size: 20;
+}
+
+img a {
+  width: 200px;
+  height: 133px;
+}
+
+.bouton
+{
+color:#0000ff;
+font-size:24px;
+cursor:pointer;
+}
+.bouton:hover
+{
+text-decoration:underline;
+}
+.texte
+{
+border:1px solid #333333;
+background:#eeeeee;
+padding:10px;
+color:#333333;
+}
+.texte:hover
+{
+border:1px solid #000000;
+background:#cccccc;
+color:#000000;
+}
+
+#toggle{height:auto; background:#eee; border:1px solid #900; margin:1em;text-align:center}
+#toggle p{text-align:center;padding:0}

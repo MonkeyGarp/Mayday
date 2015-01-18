@@ -1,8 +1,11 @@
 <?php
 
-require_once 'vendor/autoload.php';
+require 'vendor/autoload.php';
 
-$app = new \Slim\Slim();
+$app = new \Slim\Slim(array(
+	'view' => '\Slim\LayoutView', // I activate slim layout component
+	'layout' => 'layouts/main.php' // I define my main layout
+));
 
 $view = $app->view();
 $view->setTemplatesDirectory('view');
